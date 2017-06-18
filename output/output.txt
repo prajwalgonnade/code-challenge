@@ -1,1 +1,5 @@
-Your output data will end up here
+Following is the list of non-zero LTV value customer -
+kcuwu0agl3p3, 1743.4969697
+3okb2bwhrl5l, 1627.04466019
+lm66yi1jwyrl, 1157.15918367
+w69mz0pt8u1f, 703.020560748
