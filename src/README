@@ -1,1 +1,9 @@
 Your source files reside in this directory
+
+
+As a part of this code challenge, only ORDER event has been used to calculate the lifetime value.
+This is because of the sample event data has been generated in such a way to include the total_amount only with ORDER event.
+
+Future scope -
+This script can be adapted to analyze other events and extract useful information other than a customer lifetime value
+A Customer LTV can also include the quantifiable amount of site visits, time spent visiting the site, uploading data e.g. image, etc.
